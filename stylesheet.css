@@ -118,13 +118,15 @@ body{
 }
 
 footer{
-    position: fixed;
-    left:0;
+    position: relative;
     bottom: 0;
     width: 100%;
+    background-color: hsl(275, 100%, 97%);
+    margin-top: 5em;
     padding-top: 1%;
     padding-bottom: 1%;
 }
+
 .attribution {
     font-size: 11px;
     text-align: center;
