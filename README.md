@@ -12,7 +12,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor]([https://ww
     JS 
 
 ## Comment
-    JavaScript hurt. 
+    JavaScript scripted with a help of AI. 
     Please, feel free to give any feedback. As a web dev newbie, I'd appreciate it. Thanks!
 
 ## Attribution
